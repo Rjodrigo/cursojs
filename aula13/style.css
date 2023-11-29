@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    font: normal 15pt Arial;
+    font-style: italic;
+    text-align: center;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    
+    background-color: bisque;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 5px black;
+   
+}
+div {
+    text-align: center;
+    padding: 8px;
+}
+footer {
+    padding: 5%; 
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
