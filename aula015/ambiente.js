@@ -9,7 +9,7 @@ do {
 /*
 var c = 1
 while (c <= 6) {
-console.log(`passo ${c} `)
+console.log(`passo ${c} `) while == enquanto
 c++ // c - c + 1 
 }*/
 
